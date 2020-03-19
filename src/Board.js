@@ -11,22 +11,22 @@ export default function Board(props) {
         
         <div class="board">
           <div class="square top left">
-            <div class=""></div>
+            <div class="play1"></div>
           </div>
           <div class="square top">
-            <div class=""></div>
+            <div class="play2"></div>
           </div>
           <div class="square top right">
-            <div class=""></div>
+          <div class="play2"></div>
           </div>
           <div class="square left">
             <div class=""></div>
           </div>
           <div class="square">
-            <div class=""></div>
+          <div class="play2"></div>
           </div>
           <div class="square right">
-            <div class=""></div>
+          <div class="play1"></div>
           </div>
           <div class="square bottom left">
             <div class=""></div>
